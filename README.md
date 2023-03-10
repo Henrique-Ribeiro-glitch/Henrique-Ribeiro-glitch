@@ -2,7 +2,7 @@
     - How to reach me G-mail: hj777457@gmail.com ☜(ﾟヮﾟ☜) (☞ﾟヮﾟ)☞ WhatsApp: +55 51 94532724
 <div align="center">
   <a href="https://github.com/Henrique-Ribeiro-glitch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Ribeiro-glitch&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-Ribeiro-glitch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Ribeiro-glitch&layout=compact&langs_count=8&theme=dracula"/>
 </div>
   
